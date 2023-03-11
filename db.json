@@ -1,0 +1,80 @@
+{
+  "tweets": [
+    {
+      "id": "1234567890123456789",
+      "text": "Apple announces new MacBook Pro with M2 chip.",
+      "created_at": "Thu Mar 11 14:30:00 +0000 2023",
+      "user": {
+        "id": "9876543210987654321",
+        "name": "John Doe",
+        "screen_name": "johndoe",
+        "location": "New York, NY",
+        "profile_image_url": "https://example.com/profile_image_1.jpg"
+      },
+      "image_url": "https://example.com/image_1.jpg",
+      "likes": 10,
+      "comments": 5,
+      "retweets": 2
+    },
+    {
+      "id": "1234567890123456790",
+      "text": "Nigeria's National Assembly passes bill to regulate cryptocurrency.",
+      "created_at": "Thu Mar 10 12:45:00 +0000 2023",
+      "user": {
+        "id": "9876543210987654322",
+        "name": "Jane Smith",
+        "screen_name": "janesmith",
+        "location": "Los Angeles, CA",
+        "profile_image_url": "https://example.com/profile_image_2.jpg"
+      },
+      "image_url": "https://example.com/image_2.jpg",
+      "likes": 20,
+      "comments": 8,
+      "retweets": 4
+    },
+    {
+      "id": "1234567890123456791",
+      "text": "Google announces new AI-powered voice assistant for businesses.",
+      "created_at": "Thu Mar 09 09:30:00 +0000 2023",
+      "user": {
+        "id": "9876543210987654323",
+        "name": "Bob Johnson",
+        "screen_name": "bobjohnson",
+        "location": "Chicago, IL",
+        "profile_image_url": "https://example.com/profile_image_3.jpg"
+      },
+      "image_url": "https://example.com/image_3.jpg",
+      "likes": 15,
+      "comments": 3,
+      "retweets": 1
+    },
+    {
+      "id": "1234567890123456792",
+      "text": "Nigeria's tech ecosystem experiences rapid growth despite challenges.",
+      "created_at": "Wed Mar 08 15:15:00 +0000 2023",
+      "user": {
+        "id": "9876543210987654324",
+        "name": "Emily Lee",
+        "screen_name": "emilylee",
+        "location": "San Francisco, CA",
+        "profile_image_url": "https://example.com/profile_image_4.jpg"
+      },
+      "image_url": "https://example.com/image_4.jpg",
+      "likes": 8,
+      "comments": 2,
+      "retweets": 0
+    },
+    {
+      "id": "1234567890123456793",
+      "text": "Nigeria's government partners with tech companies to boost innovation.",
+      "created_at": "Tue Mar 07 11:00:00 +0000 2023",
+      "user": {
+        "id": "9876543210987654325",
+        "name": "Tom Davis",
+        "screen_name": "emilylee",
+        "location": "San Francisco, CA",
+        "profile_image_url": "https://example.com/profile_image_4.jpg"
+      }
+    }
+  ]
+}
